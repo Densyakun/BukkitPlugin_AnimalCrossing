@@ -1,0 +1,28 @@
+ownerUUID: 
+joinmsg: Playerがログインしました
+quitmsg: Playerがログアウトしました
+welcomemsg: ようこそ、どうぶつの森サーバーへ! /menuで便利なメニューを開けます
+
+notice-msg: 重要なお知らせがあります： URL
+demote-msg: 一般プレイヤーへ降格されました。
+adminpromote-msg: おめでとうございます。管理者へ昇格しました。管理者に向けて説明があります。こちらをご覧下さい： URL
+admin-msg: 管理者の方々へお知らせがあります： URL
+admindemote-msg: 管理者へ降格されました。
+ownerpromote-msg: おめでとうございます。副鯖主へ昇格しました。
+whitemode-msg: ホワイトモード(管理者専用モード)になったためキックされました。復旧するまでしばらくお待ち下さい。
+
+addvillage-msg: Villageが誕生しました！遊びに来てね！
+removevillage-msg: Villageが削除されました。
+kickvillage-msg: PlayerがVillageから追放されました。
+banvillage-msg: PlayerがVillageへの立ち入りが禁止されています。
+bannedvillage-msg: PlayerがVillageへの立ち入りが禁止されました。
+pardonvillage-msg: PlayerがVillageへの立ち入りの禁止が解除されました。
+joinvillage-obtaining-msg: Villageに参加の許可を取っています。
+joinvillage-notobtained-msg: Villageに参加を拒否しました。
+joinvillage-notobtainedforobtainer-msg: Villageに参加を拒否されました。
+joinvillage-obtain-msg: PlayerがVillageに遊びに来ようとしています。(Y/n)
+joinvillage-villagernotfound-msg: 現在村人が遊んでいないため参加できません。
+joinvillage-obtaincrowded-msg: 現在混み合っています。しばらくしてもう一度参加して下さい。
+joinvillage-obtaincancel-msg: PlayerがVillageへの参加をキャンセルしました。
+joinvillage-msg: PlayerがVillageに遊びに来たよ！
+quitvillage-msg: PlayerがVillageから出て行きました。

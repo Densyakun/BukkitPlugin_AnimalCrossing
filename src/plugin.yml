@@ -1,0 +1,10 @@
+name: AnimalCrossing
+main: org.densyakun.bukkit.animalcrossing.Main
+version: 0.1-0008a
+author: Densyakun
+website: 
+softdepend: [HubSpawn]
+commands:
+   domori:
+   menu:
+   nick:
